@@ -1,7 +1,7 @@
 #importing necessary libraries
 import numpy as np
 from matplotlib import pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 import pandas as pd
 
 #loading dataset using Pandas in pandas dataframe
